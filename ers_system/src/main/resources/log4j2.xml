@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="Error">
+	<Appenders>
+		
+		<!-- <Console name="Console" target=" SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console> -->
+		
+		<!-- <File name="myFile" fileName="C:\_revature\BankApp\BankLogging.txt"> 
+			<PatternLayout> <Pattern>%d %p %c{1.} [%t] %m%n</Pattern> </PatternLayout> 
+			</File> -->
+		<File name="File"
+			fileName="C:\__revature\ers_system\target\ersLogging.txt">
+			<!-- FilePattern="C:/_revature/BankApp//app-%d{MM-dd-yyyy}-%i.log.txt">-->
+			<PatternLayout>
+				<Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+			</PatternLayout>
+			<!-- <Policies>
+				<TimeBasedTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="100 MB" />
+			</Policies>-->
+		</File>
+	</Appenders>
+	<Loggers>
+		<Root level="TRACE" >
+			<AppenderRef ref="File" />
+			<!-- <AppenderRef ref="Console"/> -->
+			<!-- <AppenderRef ref="myFile"></AppenderRef> -->
+		</Root>
+	</Loggers>
+</Configuration>

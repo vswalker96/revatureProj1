@@ -1,0 +1,216 @@
+2020-03-09 09:52:11,277 TRACE o.a.l.l.Logger [main] Hello
+2020-03-09 09:55:01,553 TRACE o.a.l.l.Logger [main] Hello
+2020-03-09 09:55:32,509 TRACE o.a.l.l.Logger [main] Hello
+2020-03-09 09:56:15,027 TRACE o.a.l.l.Logger [main] Hello
+2020-03-09 09:56:30,476 TRACE o.a.l.l.Logger [main] Hello
+2020-03-09 10:55:25,000 TRACE o.a.l.l.Logger [main] Hello
+2020-03-09 11:01:02,696 TRACE o.a.l.l.Logger [http-nio-8080-exec-6] Manager vswalker96has logged in.
+2020-03-09 15:47:57,473 TRACE o.a.l.l.Logger [http-nio-8080-exec-2] Manager vswalker96 has logged in.
+2020-03-09 15:49:09,214 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-09 15:49:51,223 TRACE o.a.l.l.Logger [http-nio-8080-exec-8] Manager vswalker96 has logged in.
+2020-03-09 15:49:59,405 TRACE o.a.l.l.Logger [http-nio-8080-exec-2] Manager vswalker96 has logged in.
+2020-03-09 15:53:08,523 TRACE o.a.l.l.Logger [http-nio-8080-exec-10] Manager  has logged in.
+2020-03-09 15:54:25,244 TRACE o.a.l.l.Logger [http-nio-8080-exec-8] Manager mwalker has logged in.
+2020-03-09 15:54:36,422 TRACE o.a.l.l.Logger [http-nio-8080-exec-2] Employee mwalker17 has logged in.
+2020-03-10 14:43:18,793 TRACE o.a.l.l.Logger [http-nio-8080-exec-4] Manager vswalker96 has logged in.
+2020-03-10 15:06:57,962 TRACE o.a.l.l.Logger [http-nio-8080-exec-2] Manager vswalker96 has logged in.
+2020-03-10 15:07:36,676 TRACE o.a.l.l.Logger [http-nio-8080-exec-4] Manager vswalker96 has logged in.
+2020-03-10 15:07:59,486 TRACE o.a.l.l.Logger [http-nio-8080-exec-6] Manager vswalker96 has logged in.
+2020-03-10 15:10:36,133 TRACE o.a.l.l.Logger [http-nio-8080-exec-7] Manager vswalker96 has logged in.
+2020-03-10 15:12:55,695 TRACE o.a.l.l.Logger [http-nio-8080-exec-2] Manager vswalker96 has logged in.
+2020-03-10 15:48:10,469 TRACE o.a.l.l.Logger [http-nio-8080-exec-7] Manager vswalker96 has logged in.
+2020-03-10 15:48:10,469 TRACE o.a.l.l.Logger [http-nio-8080-exec-8] Manager vswalker96 has logged in.
+2020-03-10 15:48:10,563 TRACE o.a.l.l.Logger [http-nio-8080-exec-9] Manager vswalker96 has logged in.
+2020-03-10 15:57:41,588 TRACE o.a.l.l.Logger [http-nio-8080-exec-4] Manager vswalker96 has logged in.
+2020-03-10 15:59:05,815 TRACE o.a.l.l.Logger [http-nio-8080-exec-8] Manager vswalker96 has logged in.
+2020-03-10 16:21:49,549 TRACE o.a.l.l.Logger [http-nio-8080-exec-2] Manager vswalker96 has logged in.
+2020-03-10 16:22:24,340 TRACE o.a.l.l.Logger [http-nio-8080-exec-11] Manager vswalker96 has logged in.
+2020-03-10 16:23:07,683 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-10 18:31:25,108 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-10 19:03:35,860 TRACE o.a.l.l.Logger [http-nio-8080-exec-24] Manager vswalker96 has logged in.
+2020-03-10 19:07:19,249 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-10 19:08:39,940 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-10 19:13:38,206 TRACE o.a.l.l.Logger [http-nio-8080-exec-9] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:13:38,219 TRACE o.a.l.l.Logger [http-nio-8080-exec-9] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:13:40,760 TRACE o.a.l.l.Logger [http-nio-8080-exec-12] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:13:40,762 TRACE o.a.l.l.Logger [http-nio-8080-exec-12] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:15:15,115 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:17:29,407 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:17:38,184 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:21:31,911 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:21:50,691 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:24:37,064 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:26:22,568 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:26:22,575 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 87
+2020-03-10 19:30:40,905 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:30:40,914 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 87
+2020-03-10 19:31:17,672 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:31:17,681 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 87
+2020-03-10 19:31:18,653 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:31:18,664 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 87
+2020-03-10 19:33:30,650 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:33:30,659 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 87
+2020-03-10 19:35:30,538 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 40
+2020-03-10 19:37:05,119 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:37:46,512 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:37:53,772 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 19:38:35,975 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:39:25,563 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:41:41,322 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:41:46,940 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:42:49,507 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:42:57,637 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 87
+2020-03-10 19:43:02,097 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:43:09,457 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 87
+2020-03-10 19:45:00,498 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:45:07,619 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 87
+2020-03-10 19:46:10,630 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:46:16,321 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:48:21,056 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 19:49:51,377 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:10:07,104 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:10:14,583 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 20:11:40,562 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:11:47,964 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 20:12:18,372 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:14:57,860 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:16:02,298 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:16:13,311 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 20:18:52,126 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:18:59,251 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 20:21:41,140 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:30:11,601 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:30:17,758 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 20:31:52,688 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:34:31,950 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:34:44,840 TRACE o.a.l.l.Logger [main] SQL Exception caught ReimbursementDaoImpl.java: 74
+2020-03-10 20:37:35,410 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:38:40,719 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-10 20:44:24,669 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 20:44:59,402 TRACE o.a.l.l.Logger [main] Hello
+2020-03-10 21:01:59,522 TRACE o.a.l.l.Logger [http-nio-8080-exec-33] Employee mwalker17 has logged in.
+2020-03-10 21:03:48,042 TRACE o.a.l.l.Logger [http-nio-8080-exec-28] Manager vswalker96 has logged in.
+2020-03-10 21:08:56,530 TRACE o.a.l.l.Logger [http-nio-8080-exec-45] Manager vswalker96 has logged in.
+2020-03-10 21:20:30,426 TRACE o.a.l.l.Logger [http-nio-8080-exec-62] Manager vswalker96 has logged in.
+2020-03-10 21:20:58,401 TRACE o.a.l.l.Logger [http-nio-8080-exec-59] Manager vswalker96 has logged in.
+2020-03-10 22:36:06,294 TRACE o.a.l.l.Logger [http-nio-8080-exec-77] Employee mwalker17 has logged in.
+2020-03-10 22:50:43,049 TRACE o.a.l.l.Logger [http-nio-8080-exec-80] Employee mwalker17 has logged in.
+2020-03-10 22:50:47,484 TRACE o.a.l.l.Logger [http-nio-8080-exec-81] Employee mwalker17 has logged in.
+2020-03-10 22:51:03,299 TRACE o.a.l.l.Logger [http-nio-8080-exec-83] Manager vswalker96 has logged in.
+2020-03-10 23:05:14,559 TRACE o.a.l.l.Logger [http-nio-8080-exec-79] Manager vswalker96 has logged in.
+2020-03-10 23:12:52,572 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-10 23:50:09,756 TRACE o.a.l.l.Logger [http-nio-8080-exec-37] Manager vswalker96 has logged in.
+2020-03-10 23:57:47,009 TRACE o.a.l.l.Logger [http-nio-8080-exec-70] Employee mwalker17 has logged in.
+2020-03-10 23:58:56,844 TRACE o.a.l.l.Logger [http-nio-8080-exec-75] Employee mwalker17 has logged in.
+2020-03-10 23:59:07,596 TRACE o.a.l.l.Logger [http-nio-8080-exec-77] Employee mwalker17 has logged in.
+2020-03-11 00:01:20,043 TRACE o.a.l.l.Logger [http-nio-8080-exec-83] Employee mwalker17 has logged in.
+2020-03-11 00:01:32,217 TRACE o.a.l.l.Logger [http-nio-8080-exec-76] Employee mwalker17 has logged in.
+2020-03-11 00:03:02,806 TRACE o.a.l.l.Logger [http-nio-8080-exec-75] Employee mwalker17 has logged in.
+2020-03-11 00:03:21,409 TRACE o.a.l.l.Logger [http-nio-8080-exec-93] Manager vswalker96 has logged in.
+2020-03-11 00:09:24,452 TRACE o.a.l.l.Logger [http-nio-8080-exec-101] Manager vswalker96 has logged in.
+2020-03-11 00:11:17,884 TRACE o.a.l.l.Logger [http-nio-8080-exec-90] Employee mwalker17 has logged in.
+2020-03-11 00:13:23,406 TRACE o.a.l.l.Logger [http-nio-8080-exec-115] Employee mwalker17 has logged in.
+2020-03-11 00:13:41,604 TRACE o.a.l.l.Logger [http-nio-8080-exec-115] Manager vswalker96@gmail.com has logged in.
+2020-03-11 00:13:55,493 TRACE o.a.l.l.Logger [http-nio-8080-exec-116] Employee mwalker17 has logged in.
+2020-03-11 00:17:38,125 TRACE o.a.l.l.Logger [http-nio-8080-exec-127] Manager vswalker96 has logged in.
+2020-03-11 00:17:50,052 TRACE o.a.l.l.Logger [http-nio-8080-exec-128] Manager vswalker96 has logged in.
+2020-03-11 00:18:39,756 TRACE o.a.l.l.Logger [http-nio-8080-exec-139] Manager vswalker96 has logged in.
+2020-03-11 00:20:19,022 TRACE o.a.l.l.Logger [http-nio-8080-exec-143] Manager vswalker96 has logged in.
+2020-03-11 00:20:34,868 TRACE o.a.l.l.Logger [http-nio-8080-exec-143] Employee mwalker17 has logged in.
+2020-03-11 00:22:42,985 TRACE o.a.l.l.Logger [http-nio-8080-exec-150] Manager vswalker96 has logged in.
+2020-03-11 00:26:56,189 TRACE o.a.l.l.Logger [http-nio-8080-exec-146] Manager vswalker96 has logged in.
+2020-03-11 00:28:38,638 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-11 00:29:58,495 TRACE o.a.l.l.Logger [http-nio-8080-exec-5] Employee mwalker17 has logged in.
+2020-03-11 00:31:43,513 TRACE o.a.l.l.Logger [http-nio-8080-exec-14] Employee mwalker17 has logged in.
+2020-03-11 00:38:48,844 TRACE o.a.l.l.Logger [http-nio-8080-exec-37] Manager vswalker96 has logged in.
+2020-03-11 00:39:47,784 TRACE o.a.l.l.Logger [http-nio-8080-exec-40] Manager vswalker96 has logged in.
+2020-03-11 00:40:18,356 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-11 00:40:43,561 TRACE o.a.l.l.Logger [http-nio-8080-exec-5] Manager vswalker96 has logged in.
+2020-03-11 00:41:27,643 TRACE o.a.l.l.Logger [http-nio-8080-exec-11] Manager vswalker96 has logged in.
+2020-03-11 00:42:22,845 TRACE o.a.l.l.Logger [http-nio-8080-exec-22] Employee mwalker17 has logged in.
+2020-03-11 00:44:11,351 TRACE o.a.l.l.Logger [http-nio-8080-exec-27] Employee vsw has logged in.
+2020-03-11 00:45:06,596 TRACE o.a.l.l.Logger [http-nio-8080-exec-35] Employee vsw has logged in.
+2020-03-11 00:45:23,429 TRACE o.a.l.l.Logger [http-nio-8080-exec-28] Manager vswalker96 has logged in.
+2020-03-11 00:45:38,023 TRACE o.a.l.l.Logger [http-nio-8080-exec-34] Employee mwalker17 has logged in.
+2020-03-11 00:46:45,229 TRACE o.a.l.l.Logger [http-nio-8080-exec-39] Manager vswalker96 has logged in.
+2020-03-11 00:47:44,779 TRACE o.a.l.l.Logger [http-nio-8080-exec-44] Employee mwalker17 has logged in.
+2020-03-11 00:48:01,141 TRACE o.a.l.l.Logger [http-nio-8080-exec-35] Manager vswalker96 has logged in.
+2020-03-11 00:48:20,502 TRACE o.a.l.l.Logger [http-nio-8080-exec-45] Employee vsw has logged in.
+2020-03-11 01:15:57,162 TRACE o.a.l.l.Logger [http-nio-8080-exec-58] Employee mwalker17 has logged in.
+2020-03-11 01:17:20,455 TRACE o.a.l.l.Logger [http-nio-8080-exec-73] Employee mwalker17 has logged in.
+2020-03-11 01:17:22,455 TRACE o.a.l.l.Logger [http-nio-8080-exec-70] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:20:22,854 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:21:29,758 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:21:36,685 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:29:16,184 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:29:22,140 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:29:46,044 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:29:53,851 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:30:41,407 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:30:48,488 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:31:00,481 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:31:05,791 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:31:11,421 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:32:56,919 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:33:28,637 TRACE o.a.l.l.Logger [http-nio-8080-exec-81] Manager vswalker96 has logged in.
+2020-03-11 01:33:38,764 TRACE o.a.l.l.Logger [http-nio-8080-exec-87] Manager mwalker17 has logged in.
+2020-03-11 01:33:44,839 TRACE o.a.l.l.Logger [http-nio-8080-exec-89] Manager mwalker17 has logged in.
+2020-03-11 01:34:48,185 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:35:20,714 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:36:03,306 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:36:08,627 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:36:34,172 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:36:40,271 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:36:56,448 TRACE o.a.l.l.Logger [http-nio-8080-exec-88] Manager mwalker17 has logged in.
+2020-03-11 01:37:03,865 TRACE o.a.l.l.Logger [http-nio-8080-exec-81] Employee mwalker17 has logged in.
+2020-03-11 01:37:08,285 TRACE o.a.l.l.Logger [http-nio-8080-exec-82] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:43:14,060 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Employee mwalker17 has logged in.
+2020-03-11 01:43:17,832 TRACE o.a.l.l.Logger [http-nio-8080-exec-7] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:47:31,372 TRACE o.a.l.l.Logger [http-nio-8080-exec-4] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:47:34,827 TRACE o.a.l.l.Logger [http-nio-8080-exec-10] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:48:11,438 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:48:17,079 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:48:33,600 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:48:38,950 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:49:36,677 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:49:42,356 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:51:04,723 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:51:11,132 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:53:26,593 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:53:34,199 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:53:49,014 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:53:59,224 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:55:23,426 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:55:32,680 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:55:40,060 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:55:50,149 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:55:56,762 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:56:58,728 TRACE o.a.l.l.Logger [http-nio-8080-exec-16] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 01:58:21,912 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:58:31,296 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 01:58:40,242 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:01:25,559 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 02:01:33,665 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 02:01:45,372 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:02:07,194 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 02:02:25,552 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:02:34,665 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 02:02:40,964 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:03:06,548 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 02:03:14,481 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:03:54,237 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 02:04:01,752 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:06:04,789 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 02:06:10,681 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:07:33,781 TRACE o.a.l.l.Logger [main] Hello
+2020-03-11 02:36:33,780 TRACE o.a.l.l.Logger [main] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:44:19,145 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Employee mwalker17 has logged in.
+2020-03-11 02:55:28,705 TRACE o.a.l.l.Logger [http-nio-8080-exec-22] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 02:55:28,722 TRACE o.a.l.l.Logger [http-nio-8080-exec-22] SQL Exception caught UserDaoImpl.java: 111
+2020-03-11 03:08:36,210 TRACE o.a.l.l.Logger [http-nio-8080-exec-36] Employee mwalker17 has logged in.
+2020-03-11 03:09:53,628 TRACE o.a.l.l.Logger [http-nio-8080-exec-4] Employee mwalker17 has logged in.
+2020-03-11 03:12:39,430 TRACE o.a.l.l.Logger [http-nio-8080-exec-3] Manager vswalker96 has logged in.
+2020-03-11 03:14:36,793 TRACE o.a.l.l.Logger [http-nio-8080-exec-7] Manager vswalker96 has logged in.
+2020-03-11 03:32:19,555 TRACE o.a.l.l.Logger [http-nio-8080-exec-23] Employee mwalker17 has logged in.
+2020-03-11 03:36:36,464 TRACE o.a.l.l.Logger [http-nio-8080-exec-6] Employee mwalker17 has logged in.
+2020-03-11 03:37:37,960 TRACE o.a.l.l.Logger [http-nio-8080-exec-10] Employee mwalker17 has logged in.
